@@ -1,6 +1,6 @@
 {
   "baseUrl": "vilaneto.ussl.info",
-  "protocol": "https",
+  "protocol": "http",
   "hostingWPCOM": false,
   "useACF": true,
   "includedRoutes": [
